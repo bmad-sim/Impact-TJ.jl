@@ -28,7 +28,7 @@ ImpactTJMPIExt = "MPI"
 [compat]
 AbstractFFTs = "1"
 Adapt = "4"
-AtomicAndPhysicalConstants = "0.11"
+AtomicAndPhysicalConstants = "0.11, 0.12"
 Atomix = "1"
 Beamlines = "0.10"
 FFTW = "1"
